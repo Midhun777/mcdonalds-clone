@@ -1,0 +1,36 @@
+body {
+	font-size: 15pt;
+	margin: 0px;
+	padding: 0px;
+	background-color: black;
+}
+
+.p-1 {
+	color: white;
+	font-weight: 740;
+	font-size: 35px;
+}
+
+.container {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	justify-content: space-evenly;
+}
+
+.div-1 {
+	background-color: white;
+	display: inline-block;
+	height: 230px;
+	width: 145px;
+	border: 1px solid white;
+	border-radius: 4px;
+}
+
+.div-2 #42445A {
+	display: inline-block;
+	height: 230px;
+	width: 145px;
+	border: 1px solid white;
+	border-radius: 4px;
+}
